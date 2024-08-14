@@ -1,2 +1,2 @@
-# True Medical Terminology
-Mr. True's Medical Terminology Class
+# Medical Terminology
+Mr. True, Covington Holmes High School 
